@@ -2,7 +2,7 @@
 <h2>Key Requirement for this:</h2>
 <p>In this project, you are required to create a simple component for a website that displays a changelog. A changelog is a log or record of all notable changes made to a project or software. It is often used to keep users informed about the latest updates and improvements.</p>
 <h2>Source of the Project</h2>
-<link>https://github.com/seanpark0624-droid/Changelog-Component</link>
+<link>https://roadmap.sh/projects/changelog-component</link>
 <h3>My own project preview</h3>
 <a href="https://seanpark0624-droid.github.io/Changelog-Component" target="_blank">here</a>
 <h2>How to run the project:</h2>
