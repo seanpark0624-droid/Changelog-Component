@@ -4,7 +4,7 @@
 <h2>Source of the Project</h2>
 <link>https://github.com/seanpark0624-droid/Changelog-Component</link>
 <h3>My own project preview</h3>
-<a href="https://seanpark0624-droid.github.io/Changelog-Component" target="_blank>here</a>
+<a href="https://seanpark0624-droid.github.io/Changelog-Component" target="_blank">here</a>
 <h2>How to run the project:</h2>
 <ol>
   <li>Open <code>index.html</code> file and <code>styles.css</code> file.</li>
